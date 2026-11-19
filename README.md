@@ -4,7 +4,7 @@ Employee development specialist at Boeing who builds software with AI agent tool
 
 Interested in: AI tooling, agent workflows, and learning & enablement
 
-- [mcp-support-training](https://github.com/kashihashi95/mcp-support-training): a 90-minute, hands-on module that teaches new support hires to diagnose MCP server connection problems in Claude Code and Claude Desktop, with a lab of broken setups to work through.
+- [Keep AI Coding Agents Consistent with a Source-of-Truth Board](https://github.com/kashihashi95/agent-source-of-truth-training): a 90-minute, hands-on module that teaches developers to keep AI coding agents consistent by making a design board the source of truth, with a lab where they find drift an agent left behind.
 - [flowboard](https://github.com/kashihashi95/flowboard): a FigJam-style flowchart editor that runs entirely in the browser, with a hand-writable Markdown format.
 - [ThreadReader](https://github.com/kashihashi95/ThreadReader): an Android app that reads Reddit threads aloud with an on-device neural voice (Supertonic).
 - [claude-skills](https://github.com/kashihashi95/claude-skills): three Agent Skills that make Claude Code work more reliably and cheaply on long projects.
